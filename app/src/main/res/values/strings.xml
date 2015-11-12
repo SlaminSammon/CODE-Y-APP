@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Code\'Y</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_Algorithms">Algorithms</string>
+    <string name="button_DataStructures">Data Structures</string>
+    <string name="button_Problems">Common Problems</string>
+    <string name="header">Code\'Y</string>
+    <string name="title_activity_data_structures">Data Structures</string>
+    <string name="title_activity_algorithms">Algorithms</string>
+    <string name="title_activity_common_problems">Common Problems</string>
+</resources>
